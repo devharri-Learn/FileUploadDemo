@@ -1,0 +1,12 @@
+/Users/harrihonkanen/Projects/temp/UploadFilesAppSln/UploadFilesLibrary/bin/Debug/net7.0/UploadFilesLibrary.deps.json
+/Users/harrihonkanen/Projects/temp/UploadFilesAppSln/UploadFilesLibrary/bin/Debug/net7.0/UploadFilesLibrary.dll
+/Users/harrihonkanen/Projects/temp/UploadFilesAppSln/UploadFilesLibrary/bin/Debug/net7.0/UploadFilesLibrary.pdb
+/Users/harrihonkanen/Projects/temp/UploadFilesAppSln/UploadFilesLibrary/obj/Debug/net7.0/UploadFilesLibrary.csproj.AssemblyReference.cache
+/Users/harrihonkanen/Projects/temp/UploadFilesAppSln/UploadFilesLibrary/obj/Debug/net7.0/UploadFilesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrihonkanen/Projects/temp/UploadFilesAppSln/UploadFilesLibrary/obj/Debug/net7.0/UploadFilesLibrary.AssemblyInfoInputs.cache
+/Users/harrihonkanen/Projects/temp/UploadFilesAppSln/UploadFilesLibrary/obj/Debug/net7.0/UploadFilesLibrary.AssemblyInfo.cs
+/Users/harrihonkanen/Projects/temp/UploadFilesAppSln/UploadFilesLibrary/obj/Debug/net7.0/UploadFilesLibrary.csproj.CoreCompileInputs.cache
+/Users/harrihonkanen/Projects/temp/UploadFilesAppSln/UploadFilesLibrary/obj/Debug/net7.0/UploadFilesLibrary.dll
+/Users/harrihonkanen/Projects/temp/UploadFilesAppSln/UploadFilesLibrary/obj/Debug/net7.0/refint/UploadFilesLibrary.dll
+/Users/harrihonkanen/Projects/temp/UploadFilesAppSln/UploadFilesLibrary/obj/Debug/net7.0/UploadFilesLibrary.pdb
+/Users/harrihonkanen/Projects/temp/UploadFilesAppSln/UploadFilesLibrary/obj/Debug/net7.0/ref/UploadFilesLibrary.dll
